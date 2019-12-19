@@ -99,5 +99,21 @@ public class unboxingautoboxing {
 
         
 	}
+	/*
+	 Hello world
+25
+a
+class java.lang.Character
+java.lang.Character
+24
+Both one are not equal
+both one are equal
+i1==i2 : true
+num1 == num2 : true
+obj1 == obj2 : true
+one1 == anotherOne1 : false
+
+	 */
+
 
 }
